@@ -10,6 +10,11 @@
   line-height: 0px;
   opacity: 0.75;
   font-family: "ubuntu";
+  border-radius: 10px;
+}
+
+.character:hover {
+  opacity: 0.95;
 }
 
 .name {

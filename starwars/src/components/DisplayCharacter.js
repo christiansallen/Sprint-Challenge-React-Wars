@@ -5,7 +5,7 @@ const DisplayCharacter = props => {
     <div className="character">
       <p className="name">Name: {props.characterName}</p>
       <p className="gender">Gender: {props.gender}</p>
-      <p className="height">Height: {props.height}</p>
+      <p className="height">Height: {props.height}cm</p>
     </div>
   );
 };
